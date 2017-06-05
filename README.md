@@ -35,6 +35,9 @@ Note: avoid freetype, because of the headfiles are macro
 - Run ConvertingCharset.exe to convert src files's charset to utf8(bom)
 - Run 'ConvertingCharset.exe /a' to convert charset and lower include file
 
+
+![image](https://github.com/annerose/ConvertCharset/blob/master/screen.jpg)
+
 2017-6-5
 
 
